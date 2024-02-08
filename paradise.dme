@@ -2834,4 +2834,6 @@
 #include "interface\interface.dm"
 #include "interface\skin.dmf"
 #include "modular_hispania\code\datums\uplink_item.dm"
+#include "modular_hispania\code\modules\pda\cart.dm"
+#include "modular_hispania\code\modules\pda\utilities.dm"
 // END_INCLUDE
