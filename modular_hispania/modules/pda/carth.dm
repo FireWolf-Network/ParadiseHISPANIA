@@ -4,7 +4,7 @@
 	icon_state = "cart-clown"
 	charges = 5
 	programs = list(
-		new /datum/data/pda/utility/honk
+		new /datum/data/pda/utility/honk,
 		new /datum/data/pda/utility/trombone
 	)
 	messenger_plugins = list(
