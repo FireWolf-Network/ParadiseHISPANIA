@@ -53,3 +53,5 @@
 
 /obj/vehicle/clowncar/Destroy()
 	playsound(src, 'sound/misc/sadtrombone.ogg', 75)
+	QDEL_NULL(inserted_key)
+	return ..()
