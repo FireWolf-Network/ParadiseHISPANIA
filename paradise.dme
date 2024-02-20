@@ -2845,4 +2845,6 @@
 #include "modular_hispania\code\game\jobs\modularAccess\access_override.dm"
 #include "modular_hispania\modules\pda\carth.dm"
 #include "modular_hispania\modules\pda\utilitiesh.dm"
+#include "modular_hispania\modules\vehicle\clowncar.dm"
+
 // END_INCLUDE

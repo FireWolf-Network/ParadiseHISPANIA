@@ -1,6 +1,6 @@
 /datum/data/pda/utility/trombone
 	name = "Sad Trombone"
-	icon = "face-frown"
+	icon = "frown"
 	category = "Clown"
 
 	var/last_trombonasongo //Also no TROMBON EPICO spamming that's LE BAD FOR SOME REASON OR SOMETHING
